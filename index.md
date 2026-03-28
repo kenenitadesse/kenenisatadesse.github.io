@@ -5,20 +5,69 @@ permalink: /
 author_profile: true
 ---
 
-I am a PhD Candidate in Statistical Sciences at the [Department of Statistical Sciences, University of Padova (UniPd)](https://www.stat.unipd.it/). My research focuses on the intersection of **biostatistics**, **pharmacovigilance**, and **data science**.
+I am a PhD Candidate in Statistical Sciences at the [Department of Statistical Sciences, University of Padova (UniPd)](https://www.stat.unipd.it/). My research focuses on the intersection of **biostatistics**, **pharmacovigilance**, and **data science**, with a particular emphasis on developing advanced statistical methods for monitoring drug safety.
+
+My doctoral research is supervised by [Prof. Alessandra R. Brazzale](https://homes.stat.unipd.it/brazzale/) and co-supervised by Prof. Ugo Moretti and Dr. Pietro Belloni. My PhD thesis, titled "Advanced Statistical Methods and Models for Monitoring Drug Safety," aims to develop innovative statistical approaches to improve the detection and evaluation of adverse drug reactions using real-world data.
 
 ## Main Research Interests
 
 | **Biostatistics & Epidemiology** | **Pharmacovigilance & Data Science** |
 |----------------------------------|--------------------------------------|
-| Population frailty and aging | Statistics for drug safety |
-| Survival analysis | Text mining and NLP for adverse event detection |
-| Spatial epidemiology | Real-world evidence (RWE) studies |
-| Statistical methods for oncology | Clinical trial data analysis |
+| Epidemiology and Medical Statistics | Pharmacovigilance and Drug Safety Analytics |
+| Social Statistics | NLP for Biomedical Texts |
+| Survival Analysis | Machine Learning for Health Data |
+| Bayesian Statistics | Real-world Evidence (RWE) Studies |
 
-My doctoral research is supervised by [Prof. Giovanna Boccuzzo](https://homes.stat.unipd.it/gboccuzzo/) and aims to develop innovative statistical methods to improve the detection and evaluation of adverse drug reactions using large-scale healthcare databases.
+## Research Experience
 
-## Research Teams
+- **Research Intern** (September 2024 – February 2025)  
+  *Centro Regionale di Farmacovigilanza del Veneto (CRFV Veneto)*  
+  University of Verona, Department of Diagnostics and Public Health, Italy  
+  Supervisor: Prof. Ugo Moretti
 
-- **Age-It**: *Ageing Well in an Ageing Society* - A Next Generation EU funded project. I am a member of Spoke 4, WP5, led by Prof. Giovanna Boccuzzo.
-- **GLASS**: I am a proud member of [GLASS](https://www.glass-statistics.it/), a laboratory of social statistics created and run by young Italian researchers.
+- **Research Intern** (January 2026 – June 2026)  
+  *CRPV Bordeaux-DROM, CHU de Bordeaux, France*  
+  Worked on NLP-based validation of MedDRA coding for Guillain–Barré Syndrome using CamemBERTbio.
+
+## Education
+
+- **PhD in Statistical Sciences** (2023 – Present)  
+  University of Padova, Italy  
+  *Thesis: "Advanced Statistical Methods and Models for Monitoring Drug Safety"*  
+  Supervisor: Prof. Alessandra R. Brazzale  
+  Co-supervisors: Prof. Ugo Moretti, Dr. Pietro Belloni
+
+- **M.Sc. in Statistics (Biostatistics)** (2016 – 2018)  
+  East China Normal University, Shanghai, China  
+  *Thesis: "A Bayesian Stochastic Gradient Descent Method"*  
+  Supervisor: Prof. Jin Xu
+
+- **B.Sc. in Statistics** (2012 – 2015)  
+  Jimma University, Ethiopia  
+  *Thesis: "Time Series Analysis on Water and Irrigation Development"*
+
+
+## Teaching Experience
+
+Prior to my PhD, I served as a **Lecturer** at Jimma University, Ethiopia (2018–2023), where I taught courses including:
+- Statistical Inference I & II
+- Multivariate Analysis
+- Biostatistics and Epidemiology
+- Time Series Analysis
+- Statistical Computing
+
+I also taught at Rift Valley University, Jimma Campus, Ethiopia (2019–2023), delivering courses in Regression Analysis, Business Statistics, and Biostatistics.
+
+## Academic Service
+
+- **Copy Editor** (2020 – Present)  
+  *Ethiopian Journal of Education and Sciences*  
+  Providing editorial and statistical content review
+
+## Awards and Scholarships
+
+- **China Scholarship Council** (2016 – 2018)  
+  East China Normal University, Shanghai, China
+
+- **Academic Excellence Award** (2015)  
+  Jimma University, Ethiopia
