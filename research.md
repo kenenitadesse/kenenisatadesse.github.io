@@ -93,4 +93,5 @@ Assessed the prevalence of diarrheal morbidity and associated factors among unde
 - **Statistical Methods:** Survival analysis, time series, longitudinal data analysis, Bayesian statistics, multivariate analysis
 - **Pharmacovigilance:** Signal detection, disproportionality analysis, post-market drug safety surveillance
 - **Machine Learning:** Predictive modeling, NLP for biomedical texts, transformer models
-- **Software:** R, SAS, STATA, Python, LaTeX
+- **Software:** R, SAS, STATA, Python, LaTeX.
+  
