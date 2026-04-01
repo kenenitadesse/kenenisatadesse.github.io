@@ -97,7 +97,7 @@ Supported departmental teaching activities through lab instruction and student t
 
 ## Computer Skills
 
-- **Statistical Software:** R, SAS, STATA, Minitab, SPSS, EPI DATA INFO
+- **Statistical Software:** R, Python, SAS, STATA, Minitab, SPSS, EPI DATA INFO
 - **Programming:** LaTeX, Microsoft Office Suite
 - **Data Analysis:** Advanced statistical modeling and computational statistics
 
