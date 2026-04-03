@@ -21,9 +21,9 @@ I am currently completing a research internship at CRPV Bordeaux-DROM, CHU de Bo
 
 ## Education
 
-- **PhD in Statistical Sciences** (2023–Present) – University of Padova
-- **M.Sc. in Statistics (Biostatistics)** (2016–2018) – East China Normal University
-- **B.Sc. in Statistics** (2012–2015) – Jimma University
+- **PhD in Statistical Sciences** (2023–Present) – University of Padova, Padova, Italy
+- **M.Sc. in Statistics (Biostatistics)** (2016–2018) – East China Normal University, Shanghai, China
+- **B.Sc. in Statistics** (2012–2015) – Jimma University, Jimma, Ethiopia
 
 ## Awards
 
