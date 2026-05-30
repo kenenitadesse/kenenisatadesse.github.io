@@ -7,7 +7,7 @@ author_profile: true
 
 ## 👋 Hello, I'm Kenenisa
 
-I am a **PhD Candidate in Statistical Sciences** at the University of Padova (UniPd), supervised by [Prof. Alessandra R. Brazzale](https://homes.stat.unipd.it/mgbrazzale/), with guidance from [Dr. Pietro Belloni](https://homes.stat.unipd.it/pietrobelloni/), [Prof. Ugo Moretti](https://www.dpv.univr.it/it/docenti/ugo.moretti), and [Prof. Francesco Salvo](https://www.chu-bordeaux.fr/professionnels-de-sante/francis-salvo/).
+I am a **PhD Candidate in Statistical Sciences** at the University of Padova (UniPd), supervised by [Prof. Alessandra R. Brazzale](https://homes.stat.unipd.it/alessandrarosalbabrazzale/), with guidance from [Dr. Pietro Belloni](https://homes.stat.unipd.it/pietrobelloni/), [Prof. Ugo Moretti](https://www.dpv.univr.it/it/docenti/ugo.moretti), and [Prof. Francesco Salvo](https://www.chu-bordeaux.fr/professionnels-de-sante/francis-salvo/).
 
 My doctoral research focuses on *Advanced Statistical Methods and Models for Monitoring Drug Safety* — combining **statistical modeling**, **machine learning**, and **biomedical natural language processing** for pharmacovigilance applications.
 
