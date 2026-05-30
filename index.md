@@ -5,33 +5,16 @@ permalink: /
 author_profile: true
 ---
 
-I am a PhD Candidate in Statistical Sciences at the [Department of Statistical Sciences, University of Padova (UniPd)](https://www.stat.unipd.it/), supervised by Prof. Alessandra R. Brazzale with co-supervision from Dr. Pietro Belloni. My research focuses on the intersection of **biostatistics**, **pharmacovigilance**, and **data science**, aiming to improve **adverse drug reaction detection** using statistical modeling, real-world data, and NLP methods.
+This is the personal academic website of Kenenisa Tadesse Dame. I am a PhD Candidate in Statistical Sciences at the Department of Statistical Sciences, University of Padova (UniPd), supervised by Prof. Alessandra R. Brazzale, with scientific guidance from Dr. Pietro Belloni, Prof. Ugo Moretti, and Prof. Francesco Salvo. My doctoral research focuses on *Advanced Statistical Methods and Models for Monitoring Drug Safety*, combining statistical modeling, machine learning, and biomedical natural language processing for pharmacovigilance applications.
 
+| **Statistical & Methodological Focus** | **Pharmacovigilance & Biomedical Data Science** |
+|---------------------------------------|--------------------------------------------------|
+| Bayesian methods | Pharmacovigilance and drug safety surveillance |
+| Survival analysis | Adverse drug reaction signal detection |
+| Count data models | Biomedical NLP and text mining |
+| Empirical Bayes methods | Entity extraction and information retrieval |
+| Mixture models | Rule-based systems and regex approaches |
+| Causal inference | MedDRA ontology and coding validation |
+| Simulation studies | Transformer-based models (CamemBERT-bio) |
 
-I am currently completing a research internship at CRPV Bordeaux-DROM, CHU de Bordeaux, working on **NLP-based verification of MedDRA coding** under Prof. Francesco Salvo. Previously, I completed an internship at CRFV Veneto, University of Verona, supervised by Prof. Ugo Moretti. My work integrates **count data modeling, ontology-driven aggregation, and transformer-based models** to make drug safety signal detection more reliable and interpretable.
-
-## Research Interests
-
-| **Biostatistics & Epidemiology** | **Pharmacovigilance & Data Science** |
-|----------------------------------|--------------------------------------|
-| Bayesian Statistics | Pharmacovigilance and Drug Safety Analytics |
-| Survival Analysis | NLP for Biomedical Texts |
-| Zero-Inflated and Count Data Models | Machine Learning for Health Data |
-| Empirical Bayes Methods | MedDRA Ontology and Coding Validation |
-
-## Education
-
-- **PhD in Statistical Sciences** (2023–Present) – University of Padova, Padova, Italy
-- **M.Sc. in Statistics (Biostatistics)** (2016–2018) – East China Normal University, Shanghai, China
-- **B.Sc. in Statistics** (2012–2015) – Jimma University, Jimma, Ethiopia
-
-## Awards
-
-- **PhD Scholarship** – University of Padova (2023–Present)
-- **China Scholarship Council** – East China Normal University (2016–2018)
-- **Academic Excellence Award** – Jimma University (2015)
-
-## Contact
-
-**Email:** kenenisatadesse.dame@phd.unipd.it  
-**GitHub:** [github.com/kenenitadesse](https://github.com/kenenitadesse)
+As part of my PhD training, I completed a six-month research internship at the Regional Centre of Pharmacovigilance of Veneto (CRFV Veneto), University of Verona, under the supervision of Prof. Ugo Moretti. I am currently a research intern at CRPV Bordeaux-DROM, CHU de Bordeaux, France, where I work on biomedical NLP and pharmacovigilance projects under the supervision of Prof. Francesco Salvo.
