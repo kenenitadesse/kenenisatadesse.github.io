@@ -7,7 +7,7 @@ author_profile: true
 
 ## 👋 Hello, I'm Kenenisa
 
-I am a **PhD Candidate in Statistical Sciences** at the University of Padova (UniPd), supervised by Prof. Alessandra R. Brazzale, with guidance from Dr. Pietro Belloni, Prof. Ugo Moretti, and Prof. Francesco Salvo.
+I am a **PhD Candidate in Statistical Sciences** at the University of Padova (UniPd), supervised by [Prof. Alessandra R. Brazzale](https://homes.stat.unipd.it/mgbrazzale/), with guidance from [Dr. Pietro Belloni](https://homes.stat.unipd.it/pietrobelloni/), [Prof. Ugo Moretti](https://www.dpv.univr.it/it/docenti/ugo.moretti), and [Prof. Francesco Salvo](https://www.chu-bordeaux.fr/professionnels-de-sante/francis-salvo/).
 
 My doctoral research focuses on *Advanced Statistical Methods and Models for Monitoring Drug Safety* — combining **statistical modeling**, **machine learning**, and **biomedical natural language processing** for pharmacovigilance applications.
 
@@ -27,24 +27,9 @@ My doctoral research focuses on *Advanced Statistical Methods and Models for Mon
 
 ---
 
-## 📍 Current position
-
-🎓 **PhD Candidate** | University of Padova, Italy (2023–2026)  
-📝 *Thesis:* "Advanced Statistical Methods and Models for Monitoring Drug Safety"
-
----
-
-## 🌍 Research internships
+## 🌍 Research internships & training
 
 | Period | Location | Focus |
 |--------|----------|-------|
-| Jan 2026 – Jun 2026 | **CRPV Bordeaux-DROM**, CHU de Bordeaux, France | Biomedical NLP & pharmacovigilance (Prof. Francesco Salvo) |
-| Sep 2024 – Feb 2025 | **CRFV Veneto**, University of Verona, Italy | Drug safety analytics (Prof. Ugo Moretti) |
-
----
-
-## 📫 Let's connect
-
-- 📧 [kenenisatadesse.dame@phd.unipd.it](mailto:kenenisatadesse.dame@phd.unipd.it)
-- 💻 [GitHub](https://github.com/kenenitadesse)
-- 📍 Department of Statistical Sciences, via Cesare Battisti, 241, Padova, Italy
+| Jan 2026 – Jun 2026 (6 months) | **CRPV Bordeaux-DROM**, CHU de Bordeaux, France | Biomedical NLP & pharmacovigilance ([Prof. Francesco Salvo](https://www.chu-bordeaux.fr/professionnels-de-sante/francis-salvo/)) |
+| Sep 2024 – Feb 2025 (6 months) | **CRFV Veneto**, University of Verona, Italy | Training in pharmacovigilance and drug safety analytics ([Prof. Ugo Moretti](https://www.dpv.univr.it/it/docenti/ugo.moretti)) |
