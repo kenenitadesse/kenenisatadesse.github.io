@@ -4,20 +4,10 @@ title: "About Me"
 permalink: /
 author_profile: true
 ---
-<style>
-  body {
-    background-image: url('/assets/images/profile.png');
-    background-size: cover;
-    background-position: center;
-    background-attachment: fixed;
-    background-repeat: no-repeat;
-  }
-  .page__content {
-    background: rgba(255, 255, 255, 0.85); /* Makes text readable with white overlay */
-    padding: 20px;
-    border-radius: 10px;
-  }
-</style>
+<div style="background-image: url('/assets/images/profile.png'); background-size: cover; background-position: center; background-repeat: no-repeat; border-radius: 15px;">
+
+<div style="background: rgba(255, 255, 255, 0.85); padding: 30px; border-radius: 15px;">
+
 
 ## 👋 Hello, I'm Kenenisa
 
@@ -47,3 +37,7 @@ My doctoral research focuses on *Advanced Statistical Methods and Models for Mon
 |--------|----------|-------|
 | Jan 2026 – Jun 2026 (6 months) | **CRPV Bordeaux-DROM**, CHU de Bordeaux, France | Biomedical NLP & pharmacovigilance ([Prof. Francesco Salvo](https://www.chu-bordeaux.fr/Les-médecins/SALVO-FRANCESCO/)) |
 | Sep 2024 – Feb 2025 (6 months) | **CRFV Veneto**, University of Verona, Italy | Training in pharmacovigilance and drug safety analytics ([Prof. Ugo Moretti](https://www.medicina.univr.it/main?ent=persona&id=1180&lang=en)) |
+
+
+</div>
+</div>
