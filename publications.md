@@ -56,6 +56,3 @@ author_profile: true
 
 ---
 
-## Under Review
-
-*(Coming soon)*
