@@ -5,7 +5,7 @@ permalink: /teaching/
 author_profile: true
 ---
 
-I am passionate about statistics education and have extensive teaching experience at the undergraduate level. Below are the courses I have taught at Jimma University and Rift Valley University in Ethiopia.
+I am passionate about statistics education and have taught extensively at the undergraduate level. Below are the courses I have taught at Jimma University and Rift Valley University in Ethiopia.
 
 ---
 
@@ -76,7 +76,7 @@ I am passionate about statistics education and have extensive teaching experienc
 
 ## Statistical Software Training
 
-I have conducted training sessions in statistical software for researchers and professionals:
+I have conducted training sessions in statistical software for researchers and professionals at **AABEX Training and Business Consultancy PLC** and various institutional workshops.
 
 - **R**
 - **SAS**
@@ -85,8 +85,6 @@ I have conducted training sessions in statistical software for researchers and p
 - **EViews**
 - **SPSS**
 - **EPI DATA INFO**
-
-*Training provided at AABEX Training and Business Consultancy PLC and various institutional workshops.*
 
 ---
 
