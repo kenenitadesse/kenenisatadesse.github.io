@@ -5,8 +5,45 @@ permalink: /
 author_profile: true
 ---
 
-## Statistical methods for safer medicines
-![Pharmacovigilance](/assets/images/profile.jpeg){: .align-center width="80%"}
+<style>
+  .hero-banner {
+    background-image: url('/assets/images/profile.jpeg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 250px;
+    border-radius: 10px;
+    margin-bottom: 25px;
+    position: relative;
+  }
+  .hero-banner::after {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(0, 0, 0, 0.4);
+    border-radius: 10px;
+  }
+  .hero-text {
+    position: relative;
+    z-index: 2;
+    text-align: center;
+    line-height: 250px;
+    color: white;
+    font-size: 2rem;
+    font-weight: bold;
+    text-shadow: 2px 2px 4px rgba(0,0,0,0.5);
+  }
+</style>
+
+<div class="hero-banner">
+  <div class="hero-text">
+    Statistical methods for safer medicines
+  </div>
+</div>
+
 I’m a **PhD Candidate in Statistical Sciences** at the University of Padova (UniPd), where I work at the intersection of **statistics**, **machine learning**, and **biomedical natural language processing**. I’m supervised by [Prof. Alessandra R. Brazzale](https://homes.stat.unipd.it/alessandrarosalbabrazzale/) and collaborate closely with [Dr. Pietro Belloni](https://homes.stat.unipd.it/pietrobelloni/), [Prof. Ugo Moretti](https://www.medicina.univr.it/main?ent=persona&id=1180&lang=en), and [Prof. Francesco Salvo](https://www.chu-bordeaux.fr/Les-médecins/SALVO-FRANCESCO/).
 
 My research centers on **advanced statistical methods and machine learning models for monitoring drug safety**. I’m particularly interested in how statistical modeling and NLP can help us detect, understand, and prevent adverse drug reactions — turning complex biomedical text and real‑world data into actionable insights for pharmacovigilance.
