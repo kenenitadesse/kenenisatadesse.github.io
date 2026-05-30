@@ -4,7 +4,7 @@ title: "About Me"
 permalink: /
 author_profile: true
 ---
-![Pharmacovigilance](/assets/images/profile.jpeg){: .align-center width="30%"}
+![Pharmacovigilance](/assets/images/profile.jpeg){: .align-center width="80%"}
 ## Statistical methods for safer medicines
 
 I’m a **PhD Candidate in Statistical Sciences** at the University of Padova (UniPd), where I work at the intersection of **statistics**, **machine learning**, and **biomedical natural language processing**. I’m supervised by [Prof. Alessandra R. Brazzale](https://homes.stat.unipd.it/alessandrarosalbabrazzale/) and collaborate closely with [Dr. Pietro Belloni](https://homes.stat.unipd.it/pietrobelloni/), [Prof. Ugo Moretti](https://www.medicina.univr.it/main?ent=persona&id=1180&lang=en), and [Prof. Francesco Salvo](https://www.chu-bordeaux.fr/Les-médecins/SALVO-FRANCESCO/).
