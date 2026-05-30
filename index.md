@@ -4,65 +4,7 @@ title: "About Me"
 permalink: /
 author_profile: true
 ---
-<style>
-  body {
-    background-image: url('/assets/images/profile.jpeg');
-    background-size: cover;
-    background-position: center;
-    background-attachment: fixed;
-    background-repeat: no-repeat;
-  }
-  
-  /* Main content area */
-  .page__content {
-    background: rgba(255, 255, 255, 0.92);
-    padding: 30px;
-    border-radius: 15px;
-  }
-  
-  /* Sidebar (author profile) */
-  .sidebar {
-    background: rgba(255, 255, 255, 0.88);
-    padding: 20px;
-    border-radius: 15px;
-    margin-bottom: 20px;
-  }
-  
-  /* Sidebar text and links */
-  .sidebar h2, .sidebar h3, .sidebar p, .sidebar li {
-    color: #333 !important;
-  }
-  
-  /* All text on the page */
-  body, p, li, h1, h2, h3, h4, .page__content p, .archive__item-title {
-    color: #222 !important;
-  }
-  
-  /* Links */
-  a {
-    color: #2c7da0 !important;
-    text-decoration: underline;
-  }
-  
-  a:hover {
-    color: #1a5d7a !important;
-  }
-  
-  /* Table text */
-  table, th, td {
-    background: transparent !important;
-    color: #222 !important;
-  }
-  
-  /* Footer */
-  .page__footer {
-    background: rgba(255, 255, 255, 0.85);
-    padding: 10px;
-    border-radius: 10px;
-    margin-top: 20px;
-  }
-</style>
-
+![Pharmacovigilance](/assets/images/profile.jpeg){: .align-center width="70%"}
 
 ## Statistical methods for safer medicines
 
