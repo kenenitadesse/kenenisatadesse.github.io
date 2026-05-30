@@ -5,12 +5,18 @@ permalink: /
 author_profile: true
 ---
 
-This is the personal academic website of Kenenisa Tadesse Dame. I am a PhD Candidate in Statistical Sciences at the Department of Statistical Sciences, University of Padova (UniPd), supervised by Prof. Alessandra R. Brazzale, with scientific guidance from Dr. Pietro Belloni, Prof. Ugo Moretti, and Prof. Francesco Salvo. My doctoral research focuses on *Advanced Statistical Methods and Models for Monitoring Drug Safety*, combining statistical modeling, machine learning, and biomedical natural language processing for pharmacovigilance applications.
+## 👋 Hello, I'm Kenenisa
 
-**Main research interests:**
+I am a **PhD Candidate in Statistical Sciences** at the University of Padova (UniPd), supervised by Prof. Alessandra R. Brazzale, with guidance from Dr. Pietro Belloni, Prof. Ugo Moretti, and Prof. Francesco Salvo.
 
-| **Statistical Methods** | **NLP & Machine Learning** |
-|------------------------|---------------------------|
+My doctoral research focuses on *Advanced Statistical Methods and Models for Monitoring Drug Safety* — combining **statistical modeling**, **machine learning**, and **biomedical natural language processing** for pharmacovigilance applications.
+
+---
+
+## 🔬 Main research interests
+
+| **📊 Statistical Methods** | **🤖 NLP & Machine Learning** |
+|---------------------------|------------------------------|
 | Bayesian statistics | Fine-tuned transformers (CamemBERT-bio) |
 | Survival analysis | Text mining |
 | Competing risk models | Text classification |
@@ -19,4 +25,26 @@ This is the personal academic website of Kenenisa Tadesse Dame. I am a PhD Candi
 | Data thinning | Regular expressions |
 | Permutation testing | Ontology-based methods |
 
-As part of my PhD training, I completed a six-month research internship at the Regional Centre of Pharmacovigilance of Veneto (CRFV Veneto), University of Verona, under the supervision of Prof. Ugo Moretti. I am currently a research intern at CRPV Bordeaux-DROM, CHU de Bordeaux, France, where I work on biomedical NLP and pharmacovigilance projects under the supervision of Prof. Francesco Salvo.
+---
+
+## 📍 Current position
+
+🎓 **PhD Candidate** | University of Padova, Italy (2023–2026)  
+📝 *Thesis:* "Advanced Statistical Methods and Models for Monitoring Drug Safety"
+
+---
+
+## 🌍 Research internships
+
+| Period | Location | Focus |
+|--------|----------|-------|
+| Jan 2026 – Jun 2026 | **CRPV Bordeaux-DROM**, CHU de Bordeaux, France | Biomedical NLP & pharmacovigilance (Prof. Francesco Salvo) |
+| Sep 2024 – Feb 2025 | **CRFV Veneto**, University of Verona, Italy | Drug safety analytics (Prof. Ugo Moretti) |
+
+---
+
+## 📫 Let's connect
+
+- 📧 [kenenisatadesse.dame@phd.unipd.it](mailto:kenenisatadesse.dame@phd.unipd.it)
+- 💻 [GitHub](https://github.com/kenenitadesse)
+- 📍 Department of Statistical Sciences, via Cesare Battisti, 241, Padova, Italy
