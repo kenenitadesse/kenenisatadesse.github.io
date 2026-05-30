@@ -40,6 +40,13 @@ I’ve had the opportunity to work with leading pharmacovigilance centers in Eur
 | **Jan 2026 – Jun 2026** | **CRPV Bordeaux‑DROM**, CHU de Bordeaux, France | Biomedical NLP & pharmacovigilance (with [Prof. Francesco Salvo](https://www.chu-bordeaux.fr/Les-médecins/SALVO-FRANCESCO/)) |
 | **Sep 2024 – Feb 2025** | **CRFV Veneto**, University of Verona, Italy | Pharmacovigilance training & drug safety analytics (with [Prof. Ugo Moretti](https://www.medicina.univr.it/main?ent=persona&id=1180&lang=en)) |
 
+| Period | Location | Focus |
+
+|--------|----------|-------|
+
+| Jan 2026 – Jun 2026 (6 months) | **CRPV Bordeaux-DROM**, CHU de Bordeaux, France | Biomedical NLP & pharmacovigilance ([Prof. Francesco Salvo](https://www.chu-bordeaux.fr/Les-médecins/SALVO-FRANCESCO/)) |
+
+| Sep 2024 – Feb 2025 (6 months) | **CRFV Veneto**, University of Verona, Italy | Training in pharmacovigilance and drug safety analytics ([Prof. Ugo Moretti](https://www.medicina.univr.it/main?ent=persona&id=1180&lang=en)) |
 ---
 
 ## 🚀 In short
