@@ -4,8 +4,6 @@ title: "About Me"
 permalink: /
 author_profile: true
 ---
-![Banner](/assets/images/profile.jpg){: .align-center width="400"}
-
 
 ## 👋 Hello, I'm Kenenisa
 
