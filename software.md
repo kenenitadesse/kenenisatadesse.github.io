@@ -51,14 +51,9 @@ I believe in:
 
 ---
 
-## Citation
 
-If you use any of these code repositories in your research, please cite the corresponding publications. For questions or contributions, feel free to open an issue on GitHub or contact me directly.- **Reproducibility:** Providing complete workflows so others can replicate results
-- **Documentation:** Clear instructions and examples for users
-- **Collaboration:** Contributing to and building upon community tools
 
----
 
 ## Citation
 
-If you use any of these tools in your research, please cite the corresponding publications. For questions or contributions, feel free to open an issue on GitHub or contact me directly.
+If you use any of these code repositories in your research, please cite the corresponding publications. For questions or contributions, feel free to open an issue on GitHub or contact me directly.
