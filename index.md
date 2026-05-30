@@ -4,7 +4,7 @@ title: "About Me"
 permalink: /
 author_profile: true
 ---
-![Pharmacovigilance](/assets/images/profile.jpeg){: .align-center width="70%"}
+![Pharmacovigilance](/assets/images/profile.jpeg){: .align-center width="150%"}
 
 ## Statistical methods for safer medicines
 
