@@ -30,7 +30,7 @@ via Cesare Battisti, 241
 ## Online
 
 - 💻 [GitHub](https://github.com/kenenitadesse)
-- 🔗 [LinkedIn](https://www.linkedin.com/in/kenenitadesse/)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/kenenisa-tadesse-dame/)
 - 🎓 [Google Scholar](https://scholar.google.com/citations?user=BKsUXgcAAAAJ)
 - 🆔 [ORCID](https://orcid.org/0000-0003-1205-472X)
 
