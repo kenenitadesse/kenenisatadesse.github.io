@@ -13,13 +13,23 @@ author_profile: true
 
 ## 📌 Contact Information
 
-**Kenenisa Tadesse Dame**  
-📍 University of Padova · Department of Statistical Sciences  
-via Cesare Battisti, 241 · 35121 Padova, Italy  
+**Kenenisa Tadesse Dame**
+
+📍 **Current Address (Jan–Jun 2026):**  
+CRPV Bordeaux-DROM, CHU de Bordeaux  
+Service de Pharmacologie Médicale  
+Bordeaux, France
+
+📍 **Permanent Address:**  
+University of Padova  
+Department of Statistical Sciences  
+via Cesare Battisti, 241  
+35121 Padova, Italy
+
 
 📞 **Tel:** +39 3519578810  
 ✉️ **Email:** [kenenisatadesse.dame@phd.unipd.it](mailto:kenenisatadesse.dame@phd.unipd.it)  
-🌐 **Website:** [kenenitadesse.com](https://kenenitadesse.github.io/)  
+🌐 **Website:** [www.kenenitadesse.com](https://kenenitadesse.github.io/)  
 🆔 **ORCID:** [0000-0003-1205-472X](https://orcid.org/0000-0003-1205-472X)  
 🐙 **GitHub:** [github.com/kenenitadesse](https://github.com/kenenitadesse)
 
