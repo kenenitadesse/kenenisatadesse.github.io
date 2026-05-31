@@ -7,14 +7,9 @@ author_profile: true
 
 ## 👋 Hello, I'm Kenenisa
 
-I’m a **PhD Candidate in Statistical Sciences** at the University of Padova (UniPd), where I work at the intersection of **statistics**, **machine learning**, and **biomedical natural language processing**. 
+I’m a **PhD Candidate in Statistical Sciences** at the University of Padova (UniPd), supervised by [Prof. Alessandra R. Brazzale](https://homes.stat.unipd.it/alessandrarosalbabrazzale/) with co-supervision from [Dr. Pietro Belloni](https://homes.stat.unipd.it/pietrobelloni/), [Prof. Ugo Moretti](https://www.medicina.univr.it/main?ent=persona&id=1180&lang=en), and [Prof. Francesco Salvo](https://www.chu-bordeaux.fr/Les-médecins/SALVO-FRANCESCO/).
 
-I am supervised by [Prof. Alessandra R. Brazzale](https://homes.stat.unipd.it/alessandrarosalbabrazzale/), with co-supervision from [Dr. Pietro Belloni](https://homes.stat.unipd.it/pietrobelloni/), [Prof. Ugo Moretti](https://www.medicina.univr.it/main?ent=persona&id=1180&lang=en), and [Prof. Francesco Salvo](https://www.chu-bordeaux.fr/Les-médecins/SALVO-FRANCESCO/).
-
-My doctoral research is currently underway under the thesis title:  
-**"Advanced Statistical Methods and Models for Monitoring Drug Safety"**
-
-My research focuses on developing statistical and machine learning methods for drug safety monitoring. I’m particularly interested in how NLP and machine learning can help detect, understand, and prevent adverse drug reactions — turning complex biomedical text and real‑world data into actionable insights for pharmacovigilance.
+My PhD thesis, **"Advanced Statistical Methods and Models for Monitoring Drug Safety"**, develops statistical and machine learning approaches for **signal detection** and **signal management/validation** of adverse drug reactions from real-world data.
 
 ---
 
@@ -23,20 +18,22 @@ My research focuses on developing statistical and machine learning methods for d
 | **📊 Statistical Methods** | **🤖 NLP & Machine Learning** |
 |---------------------------|------------------------------|
 | Bayesian statistics | Fine‑tuned transformers (CamemBERT‑bio) |
-| Survival analysis | Text mining & information extraction |
-| Competing risk models | Text classification |
-| Zero‑inflated count models | Rule‑based extraction |
-| Empirical Bayes shrinkage | Regular expressions |
-| Data thinning | Ontology‑based methods |
-| Permutation testing | Automated ADR extraction from SmPCs |
+| Zero‑inflated count models | Text mining & information extraction |
+| Empirical Bayes shrinkage | Text classification |
+| Disproportionality analysis | Rule‑based extraction |
+| Data thinning | Regular expressions |
+| Permutation testing | Ontology‑based methods |
+| | Automated ADR extraction from SmPCs |
 
 ---
 
-## 🔭 What I’m interested in (future directions)
+## 📜 Past work
 
-- **Large Language Models (LLMs)** for pharmacovigilance
-- **Artificial Intelligence (AI)** for drug safety
-- **Causality assessment in pharmacovigilance** — from traditional to AI-driven approaches
+| **Statistical Methods** |
+|------------------------|
+| Survival analysis |
+| Competing risk models |
+| Time series analysis |
 
 ---
 
@@ -49,7 +46,10 @@ My research focuses on developing statistical and machine learning methods for d
 
 ---
 
-## 🚀 In short
+## 🔭 What’s next
 
-I’m passionate about using **statistics and machine learning to make medicines safer**.  
-If you’re interested in **pharmacovigilance**, **biomedical NLP**, or **statistical modeling**, you’ll probably enjoy exploring the rest of my site.
+I’m excited to explore **LLMs**, **graphical models**, **AI-driven causality assessment**, and advanced AI methods for pharmacovigilance.
+
+---
+
+*I’m passionate about making medicines safer through statistics and machine learning.*
