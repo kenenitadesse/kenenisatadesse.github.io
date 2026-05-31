@@ -18,7 +18,18 @@ I welcome collaboration opportunities, research discussions, and inquiries about
 
 ---
 
-## Address
+## Current Address (Research Placement)
+
+📍 **CRPV Bordeaux-DROM**  
+Service de Pharmacologie Médicale  
+CHU de Bordeaux  
+Bordeaux, France
+
+*(Until July 2026)*
+
+---
+
+## Permanent Address
 
 📍 **University of Padova**  
 Department of Statistical Sciences  
@@ -35,4 +46,3 @@ via Cesare Battisti, 241
 - 🆔 [ORCID](https://orcid.org/0000-0003-1205-472X)
 
 ---
-
