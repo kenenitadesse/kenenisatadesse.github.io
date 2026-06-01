@@ -29,7 +29,7 @@ via Cesare Battisti, 241
 
 📞 **Tel:** +39 3519578810  
 ✉️ **Email:** [kenenisatadesse.dame@phd.unipd.it](mailto:kenenisatadesse.dame@phd.unipd.it)  
-🌐 **Website:** [www.kenenitadesse.com](https://kenenitadesse.github.io/)  
+🌐 **Website:** [www.kenenisatadesse.com](https://kenenitadesse.github.io/)  
 🆔 **ORCID:** [0000-0003-1205-472X](https://orcid.org/0000-0003-1205-472X)  
 🐙 **GitHub:** [github.com/kenenitadesse](https://github.com/kenenitadesse)
 
