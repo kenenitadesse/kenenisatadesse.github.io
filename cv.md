@@ -123,7 +123,9 @@ via Cesare Battisti, 241
 | Afan Oromo | Native |
 | Amharic | Native |
 | English | Fluent (written & spoken) |
-| Chinese | Good (spoken) |
+| Chinese | Beginner (spoken) |
+| Italian | Beginner (spoken) |
+
 
 ---
 
